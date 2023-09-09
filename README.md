@@ -76,3 +76,21 @@ def preprocess_data(data):
 5.	GUI Integration: The code integrates a graphical user interface (GUI) using the Tkinter library. It allows the user to select a text file containing characters for recognition. The selected characters are then extracted and passed through the trained model.
 
 6.	Result Display and Saving: The program displays the recognition results in a separate window using a scrolled text widget. The results include the character and its predicted label. Additionally, the program provides the option to save the results to an output file for further analysis.
+
+Some screenshots of the project:
+
+
+First screen prompt us to select a file that contains a text:
+ 
+Next, when we choose a file, the code runs and returns the output in a screen and create a new output.txt and save the output in it:
+	
+
+
+
+
+
+
+
+This is the output.txt file content:
+ 
+

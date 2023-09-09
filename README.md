@@ -81,16 +81,17 @@ Some screenshots of the project:
 
 
 First screen prompt us to select a file that contains a text:
+
+![test](https://github.com/josephib1/Machine-Learning/assets/105210115/41653177-5784-4a8f-972d-495606505640)
  
 Next, when we choose a file, the code runs and returns the output in a screen and create a new output.txt and save the output in it:
-	
 
-
-
-
-
-
+![test1](https://github.com/josephib1/Machine-Learning/assets/105210115/9e14692f-c3dc-45fb-b6e0-0d21dd1feb68)
 
 This is the output.txt file content:
+
+![test2](https://github.com/josephib1/Machine-Learning/assets/105210115/10026367-391f-4d97-8725-d34c08af2069)
+
+
  
 
